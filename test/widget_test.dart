@@ -1,8 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:turbo_racing/main.dart';
 
 void main() {
-  test('placeholder smoke test', () {
+  test('Prueba básica de Turbo Racing', () {
     expect(1 + 1, 2);
   });
 }
